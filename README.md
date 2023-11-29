@@ -1,9 +1,8 @@
 # xia-gpt: Human-AI collaboration for General AI
 ## Product purpose
 * A collaborative workspace where human and AI contributions are equally valued.
-* A framework designed to simplify tasks. Adequate context and strong inferential capabilities ensure task success.
-* Continuously evolving to decrease human involvement. Reaching 0% signifies the achievement of General AI.
-* Highly configurable and compatible with all missions, not limited to just development tasks.
+* Highly configurable and compatible with all complex mission, and not limited to just development tasks.
+* Continuously evolving to decrease human involvement. Reaching 0% signifies the achievement of General AI. ([Detail Roadmap](docs/design/genai_approach.md))
 
 ## Quick Start
 The quickest way to run xia-gpt is using full cloud context. You just need a navigator and several minutes.
