@@ -51,8 +51,15 @@ Could be totally free, so even credit card is not needed.
 
 2. Code Maintenance
 
+    https://github.com/x-i-a/xia-gpt/assets/128282444/297000db-b20e-4b24-87b3-93023b606154
 
-3. Complex Execution Logic
+3. Review Process
+
+    https://github.com/x-i-a/xia-gpt/assets/128282444/c66fcf6d-a51a-40d0-ab61-ab0386db8f3e
+
+4. Manual Review Process
+
+    https://github.com/x-i-a/xia-gpt/assets/128282444/9966f362-e866-4364-8d51-efd6c6448bc3
 
 
 ### Basic Use Guide
