@@ -7,7 +7,7 @@
 ## Quick Start
 The quickest way to run `xia-gpt` is using full cloud context. You just need a navigator and several minutes.
 
-It could be completely free, so a credit card is not even needed.
+**It could be completely free, so a credit card is not even needed.**
 
 ### Quick Start Prerequisite
 * A gitlab account with personal token (free-tier compatible). Gitlab is used to hold a virtual organization and a virtual team.
@@ -30,7 +30,7 @@ By regarding the following video. It will take you less than 10 minutes to see h
 
     https://github.com/x-i-a/xia-gpt/assets/128282444/ed8d38d6-2505-4764-9e3c-5da7d0c12155
 
-4. How to run the Hello-World Job without OpenAI API key
+4. How to run the Hello-World Job **without** OpenAI API key
 
     https://github.com/x-i-a/xia-gpt/assets/128282444/88569fe1-5609-4dc4-9067-c45f814262b4
 
