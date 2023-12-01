@@ -16,7 +16,7 @@ The quickest way to run `xia-gpt` is using full cloud context. You just need a n
 
 
 ### Quick Start
-By regarding the following video. It will take you less than 10 minutes to see how to run `xia-gpt`.
+By regarding the following videos, it will take you less than 10 minutes to see how to run `xia-gpt`.
 
 1. Fork repository, generating Gitlab access Token and save it as GitHub secret.
 
