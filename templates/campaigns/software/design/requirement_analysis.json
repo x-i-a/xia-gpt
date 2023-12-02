@@ -1,0 +1,10 @@
+{
+  "steps": {
+    "requirement_analysis": {
+      "stack": "full",
+      "type": "mission",
+      "mission_type": "software/design/requirement_analysis",
+      "upstream_steps": []
+    }
+  }
+}

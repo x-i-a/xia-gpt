@@ -21,7 +21,7 @@
     {
       "task_type": "Task",
       "name": "requirements/requirement_analysis",
-      "target": "workspace/requirement_analysis",
+      "target": "design/general/requirement_analysis",
       "title": "Requirement Analysis",
       "required_contexts": [
         "workspace/original_requirements"
@@ -30,7 +30,7 @@
     {
       "task_type": "Task",
       "name": "requirements/user_stories",
-      "target": "workspace/user_stories",
+      "target": "design/general/user_stories",
       "title": "User Stories",
       "required_contexts": [
         "design/general/product_goals"
